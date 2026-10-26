@@ -9,6 +9,7 @@ This tool is developed and validated based on the data of three cohorts (with 80
 # Reference
 
 [1] Q He, X Li, DWN Kim, X Jia, X Gu, X Zhen, L Zhou: Feasibility study of a multi-criteria decision-making based hierarchical model for multi-modality feature and multi-classifier fusion: Applications in medical prognosis prediction. Information Fusion 2020, 55:207-219.(https://doi.org/10.1016/j.inffus.2019.09.001)
+
 [2] Cai Guangyao, Huang Fangjun, Gao Yue, Li Xiao, Chi Jianhua, Xie Jincheng, Zhou Linghong, Feng Yanling, Huang He, Deng Ting, Zhou Yun, Zhang Chuyao, Luo Xiaolin, Xie Xing, Gao Qinglei, Zhen Xin, Liu Jihong: Artificial intelligence-based models enabling accurate diagnosis of ovarian cancer using laboratory tests in China: a multicentre, retrospective cohort study. The Lancet Digital Health 2024, 6(3):e176-e186.
 
 
